@@ -4,24 +4,24 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Sakti Buana
+title: Catatan Sakti
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+url: http://saktibuana.github.io
+twitter_username: saktibuana
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/saktibuana_
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/saktibuana/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/saktibuana/
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/saktibuana
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://codepen.io/saktibuana/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,7 +36,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
+  - name: Arti Hikmatullah Perbawana Sakti Buana
     bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
     url: http://thomasvaeth.com
 
