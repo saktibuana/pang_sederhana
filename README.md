@@ -1,2 +1,2 @@
 # [Catatan Sakti](saktibuana.github.io)
-Website pang sederhana na nu pernah dipidamel
+Website saktibuana.github.io teh website nu pang sederhana na nu pernah dipidamel
