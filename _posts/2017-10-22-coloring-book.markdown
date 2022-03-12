@@ -6,9 +6,9 @@ description:
 image: /assets/images/placeholder-8.jpg
 author: Thomas Vaeth
 tags: 
-  - Squid
-  - Moon Drinking
-  - Kale
+  - Git
+  - Sublime Merge
+  - Sublime Text
 ---
 Kept thinking that everyone has its own color, but the more I lived, the more I see that probably we just have our own pallete. Which will be change over time.. Fingerstache tousled DIY +1. 
 
