@@ -3,7 +3,7 @@ layout: post
 title: "Kage Master"
 date: 2017-10-23
 description: 
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/placeholder-1.jpg
 author: Sakti Buana
 tags: 
   - Dummy Text
