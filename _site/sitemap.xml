@@ -88,8 +88,4 @@
 <url>
 <loc>http://localhost:4000/tag/dummy-text/</loc>
 </url>
-<url>
-<loc>http://localhost:4000/</loc>
-<lastmod>2022-03-12T15:30:34+07:00</lastmod>
-</url>
 </urlset>
